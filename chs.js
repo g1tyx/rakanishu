@@ -290,7 +290,7 @@ var cnItems = {
     "Lizard's Small Shield": "蜥蜴的小盾",
     "Mace mastery": "狼牙棒掌握",
     "Mahala (Fighter)": "玛哈拉（战士）",
-    "Masteries": "硕士",
+    "Masteries": "天赋",
     "Mercenary": "雇佣兵",
     "Natural Resistance": "自然抗性",
     "Precise": "精确",
