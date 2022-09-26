@@ -853,7 +853,7 @@ var cnPrefix = {
     "Max mana: ": "最大法力：",
     "Relics: ": "遗物：",
     "Class: ": "职业：",
-    "Exile ": "放逐",
+    "Exile ": "放逐（转生）",
     "Shrine of Armor ": "盔甲神殿 ",
     "Vikhyat ": "维克亚特 ",
     "The Hole ": "洞窟 ",
