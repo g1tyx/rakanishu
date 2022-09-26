@@ -405,7 +405,7 @@ var cnItems = {
     "Can auto-cast 1 spell.": "可以自动施放 1个 法术。",
     "Class requirements (other than class & level) are needed only the first time you unlock a class.": "职业需求(除了职业和等级)只在你第一次解锁一个职业时才需要。",
     "Class selection": "职业选择",
-    "Class unlocked": "类解锁",
+    "Class unlocked": "职业解锁",
     "Devilkin": "恶魔人",
     "Druid": "德鲁伊",
     "Gain +15 to energy.": "获得 +15 能量。",
