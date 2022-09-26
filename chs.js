@@ -423,7 +423,7 @@ var cnItems = {
     "Specialize in combat.": "专攻格斗。",
     "Specialize in Magic.": "专攻魔法。",
     "Specialize in Summons & transformation.": "专注于召唤和转变。",
-    "Starting class.": "开始校色。",
+    "Starting class.": "初始角色。",
     "(epic)": "(史诗)",
     "(legendary)": "(传奇)",
     "+1 to Werewolf (Druid only)": "+1 狼人（仅限德鲁伊）",
