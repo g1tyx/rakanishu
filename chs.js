@@ -1193,7 +1193,7 @@ var cnPrefix = {
     "Vikhyat ": "维克亚特 ",
     "The Hole ": "洞窟 ",
     "Tamoe Highland ": "泰摩高地 ",
-    "Resplenish life +": "恢复生命值 +",
+    "Resplenish life +": "生命值上限 +",
     "Resist all +": "全部抗性 +",
     "The Pit ": "深渊 ",
     "Vikhyat ": "维克亚特 ",
