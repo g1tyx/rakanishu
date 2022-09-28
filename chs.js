@@ -1139,7 +1139,7 @@ var cnItems = {
     "Dragon's Spirit Mask of Strength": "龙魂力量面具",
     "Drake's Antlers of ease": "德雷克的安逸鹿角",
     "Drake's Antlers of Resumption": "德雷克的恢复鹿角",
-    "Durance of Hate": "仇恨的持续时间",
+    "Durance of Hate": "憎恨的囚牢",
     "Eagle Mask": "鹰面具",
     "Emerald Antlers of Amelioration": "改良的翡翠鹿角",
     "Emerald Falcon Mask of Accuracy": "翡翠猎鹰精准面具",
